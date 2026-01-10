@@ -1,20 +1,63 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Dayflow - Human Resource Management System
 
-# Run and deploy your AI Studio app
+> **"Every workday, perfectly aligned."**
 
-This contains everything you need to run your app locally.
+## 📖 Introduction
+Dayflow is a comprehensive Human Resource Management System (HRMS) designed to digitize and streamline core HR operations. The system manages the entire employee lifecycle, including onboarding, profile management, attendance tracking, leave management, and payroll visibility, complete with approval workflows for Admins and HR officers.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1V3RuOThpbvrEw3EMylgCfO3qlDugN3xy
+## 🎯 Purpose
+The primary purpose of Dayflow is to provide a unified platform that offers:
+* Secure authentication and role-based access.
+* Efficient attendance and time-off management.
+* Streamlined payroll visibility and structure updates.
+* Clear approval workflows for HR administration.
 
-## Run Locally
+## 👥 User Roles
 
-**Prerequisites:**  Node.js
+### 1. Admin / HR Officer
+* **Access Level:** High / Management.
+* **Responsibilities:** Manages employee records, approves leave and attendance requests, and oversees payroll structures.
 
+### 2. Employee
+* **Access Level:** Regular / Limited.
+* **Responsibilities:** Views personal profile and salary details, marks daily attendance, and applies for leave.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ Key Features
+
+### 🔐 Authentication & Security
+* **Sign Up/Sign In:** Secure login via Email and Password or Employee ID.
+* **Role Selection:** Distinct registration for Employees and HR/Admins.
+* **Verification:** Email verification required for account activation.
+
+### 📊 Dashboards
+* **Employee Dashboard:** Quick-access cards for Profile, Attendance, and Leave Requests. Displays recent activity and alerts.
+* **Admin Dashboard:** Overview of the Employee list, attendance records, and pending leave approvals.
+
+### 👤 Profile Management
+* **View Profile:** Access personal details, job information, salary structure, and documents.
+* **Edit Profile:** Employees can update contact info and profile pictures. Admins have full editing rights for all employee details.
+
+### 🕒 Attendance Management
+* **Tracking:** Daily and weekly attendance views.
+* **Check-In/Out:** Manual entry system for employees.
+* **Status Indicators:** Tracks statuses such as Present, Absent, Half-day, and Leave.
+* **Visibility:** Employees see their own history; Admins view attendance for the entire workforce.
+
+### 🏖️ Leave & Time-Off
+* **Leave Types:** Paid, Sick, Unpaid, etc.
+* **Application:** Employees can select dates and add remarks for leave requests.
+* **Approval Workflow:** Admins can view, approve, or reject requests with comments. Updates are reflected immediately.
+
+### 💰 Payroll & Salary
+* **Employee View:** Read-only access to salary structures and payroll data.
+* **Admin Control:** Ability to view global payroll data, update salary structures, and ensure accuracy.
+
+## 🚀 Future Enhancements
+* **Notifications:** Email and system alerts for approvals and updates.
+* **Analytics:** Advanced reporting dashboards for salary slips and attendance trends.
+
+##Created By:-
+25CS019
+25CS026
+25CS041
+25CS044
