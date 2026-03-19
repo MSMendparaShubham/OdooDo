@@ -1,4 +1,4 @@
-# Dayflow - Human Resource Management System:
+# Dayflow - Human Resource Management System
 
 > **"Every workday, perfectly aligned."**
 
