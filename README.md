@@ -3,7 +3,7 @@
 > **"Every workday, perfectly aligned."**
 
 ## 📖 Introduction
-Dayflow is a comprehensive Human Resource Management System (HRMS) designed to digitize and streamline core HR operations. The system manages the entire employee lifecycle, including onboarding, profile management, attendance tracking, leave management, and payroll visibility, complete with approval workflows for Admins and HR officers.
+Dayflow is a comprehensive Human Resource Management System (HRMS) designed to digitize and streamline core HR operations. The system manages the entire employee lifecycle, including onboarding, profile management, attendance tracking, leave management, and payroll visibility, complete with approval workflows for Admins and HR officers..
 
 ## 🎯 Purpose
 The primary purpose of Dayflow is to provide a unified platform that offers:
